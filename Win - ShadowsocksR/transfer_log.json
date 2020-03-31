@@ -1,0 +1,50 @@
+{
+	"127.0.0.1" : {
+		"totalUploadBytes" : 3038657,
+		"totalDownloadBytes" : 41995266
+	},
+	"127.0.0.2" : {
+		"totalUploadBytes" : 208516,
+		"totalDownloadBytes" : 56214
+	},
+	"127.0.0.3" : {
+		"totalUploadBytes" : 164824,
+		"totalDownloadBytes" : 214013
+	},
+	"127.3.0.3" : {
+		"totalUploadBytes" : 142840,
+		"totalDownloadBytes" : 328617
+	},
+	"45.77.131.220" : {
+		"totalUploadBytes" : 763027545,
+		"totalDownloadBytes" : 6925437594
+	},
+	"47.52.137.153" : {
+		"totalUploadBytes" : 1700846,
+		"totalDownloadBytes" : 41402637
+	},
+	"124.156.244.4" : {
+		"totalUploadBytes" : 1348731,
+		"totalDownloadBytes" : 23364182
+	},
+	"lqwan.club" : {
+		"totalUploadBytes" : 1959399640,
+		"totalDownloadBytes" : 4306024782
+	},
+	"198.13.42.242" : {
+		"totalUploadBytes" : 1901178,
+		"totalDownloadBytes" : 13230624
+	},
+	"45.76.188.34" : {
+		"totalUploadBytes" : 1939235,
+		"totalDownloadBytes" : 12848903
+	},
+	"129.226.130.143" : {
+		"totalUploadBytes" : 677903,
+		"totalDownloadBytes" : 588655
+	},
+	"129.226.141.188" : {
+		"totalUploadBytes" : 57170,
+		"totalDownloadBytes" : 318864
+	}
+}

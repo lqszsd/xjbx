@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "ftxxgcs.0v6.net",
+    "port": "3306",
+    "user": "ftxxgcs_0v6_net",
+    "password": "8FXdajHPa5wbxDRF",
+    "name": "ftxxgcs_0v6_net",
+    "prefix": "ox_",
+    "max_open_conn": 500
+  }
+}
